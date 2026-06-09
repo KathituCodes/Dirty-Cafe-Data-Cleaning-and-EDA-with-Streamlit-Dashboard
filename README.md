@@ -1,6 +1,6 @@
 # Cafe Sales: End-to-End Data Wrangling and Exploratory Analysis
 
-A systematic, documented data cleaning and EDA pipeline applied to a 10,000-row intentionally corrupted cafe sales dataset. The project demonstrates multi-layered handling of real-world data quality problems: type corruption, placeholder errors, missing value imputation via unit-economics logic and distribution-preserving sampling, outlier validation, and business-context analysis.
+This is a systematic, documented data cleaning and EDA pipeline applied to a 10,000-row intentionally corrupted cafe sales dataset. The project demonstrates multi-layered handling of real-world data quality problems: type corruption, placeholder errors, missing value imputation via unit-economics logic and distribution-preserving sampling, outlier validation, and business-context analysis.
 
 ---
 
